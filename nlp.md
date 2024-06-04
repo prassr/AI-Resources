@@ -11,4 +11,4 @@
 | 7. | [Deepgram Post By Zian (Andy) Weng for LLM Journey](https://deepgram.com/learn/foundational-courses-to-learn-large-language-models#phase-0-theory-and-foundations) |
 | 8. | [LLM Course by AI4Bharat](https://courses.ai4bharat.org/collections) (Please contribute to [Anudesh](https://anudesh.ai4bharat.org)) |
 | 9. | [Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-
+| 10. | [LLM Course](https://github.com/mlabonne/llm-course)
